@@ -1,16 +1,15 @@
-### Hi there 👋
+## João Reichert :man_technologist:
 
-<!--
-**reeichert/reeichert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reeichert)](https://github.com/reeichert)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reeichert/)](https://www.linkedin.com/in/reeichert/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoreichert94@gmail.com)](mailto:joaoreichert94@gmail.com)
 
-Here are some ideas to get you started:
+### Hi there! 👋 Welcome to my github profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m a mobile developer 
+
+ - 🌱 Mainly working with iOS (Swift / Objective-C / SwiftUI) since 2013
+ - 📲 I'm currently working with Flutter too
+ - 🚀 Always learning and improving my skills
+ - 🔭 I’m currently working @ [Brave](http://brave.ag)
+ - 💬 Feel free to reach me out
