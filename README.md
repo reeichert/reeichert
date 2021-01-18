@@ -11,5 +11,5 @@ I´m a mobile developer
  - 🌱 Mainly working with iOS (Swift / Objective-C / SwiftUI) since 2013
  - 📲 I'm currently working with Flutter too
  - 🚀 Always learning and improving my skills
- - 🔭 I’m currently working @ [Brave](http://brave.ag)
+ - 🔭 I’m currently working @ [TAG](https://www.taglivros.com.br)
  - 💬 Feel free to reach me out
