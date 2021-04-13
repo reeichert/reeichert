@@ -8,8 +8,8 @@
 
 I´m a mobile developer 
 
- - 🌱 Mainly working with iOS (Swift / Objective-C / SwiftUI) since 2013
- - 📲 I'm currently working with Flutter too
+ - 📲 I'm currently working mainly with Flutter
+ - 🌱 Work with iOS (Swift / Objective-C / SwiftUI) since 2013
  - 🚀 Always learning and improving my skills
  - 🔭 I’m currently working @ [TAG](https://www.taglivros.com.br)
  - 💬 Feel free to reach me out
