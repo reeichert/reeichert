@@ -6,9 +6,9 @@
 
 ### Hi there! 👋 Welcome to my github profile
 
-I´m a mobile developer 
+I´m a Mobile Software Engineer 
 
- - 📲 I'm currently working iOS and Flutter
+ - 📲 I'm currently @ Uber
  - 🌱 Work with iOS (Swift / Objective-C / SwiftUI) since 2013
  - 🐥 Work with Flutter since 2019
  - 🚀 Always learning and improving my skills
